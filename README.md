@@ -2,31 +2,31 @@
 
 You can use the [editor on GitHub](https://github.com/disfrazbilbao/disfrazbilbao/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+1Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### 2Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+3Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
-Syntax highlighted code block
+4Syntax highlighted code block
 
-# Header 1
+# 5Header 1
 ## Header 2
 ### Header 3
 
-- Bulleted
+- 6Bulleted
 - List
 
-1. Numbered
+1. 7Numbered
 2. List
 
-**Bold** and _Italic_ and `Code` text
+**8Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
+[Link](url) 9and ![Image](src)
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+10For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
 
